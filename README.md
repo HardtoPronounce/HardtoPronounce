@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salut! Sunt Petcu David Andrei 👋
 
-<!--
-**HardtoPronounce/HardtoPronounce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Student în anul 3 @ ETTI, Universitatea Politehnica din București
 
-Here are some ideas to get you started:
+Sunt un pasionat de tehnologie și dezvoltare software, cu un focus special pe **Web Development** și **Sisteme de Baze de Date**. Îmi place să construiesc aplicații scalabile și să învăț constant tehnologii noi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Cu ce lucrez:
+
+* **Limbaje de programare:** Python, Java, C/C++, JavaScript/TypeScript
+* **Backend Frameworks:** Spring Boot, Flask
+* **Frontend:** React, HTML5, CSS3
+* **Baze de date:** PostgreSQL, MySQL
+* **Alte unelte:** Git, Linux
+
